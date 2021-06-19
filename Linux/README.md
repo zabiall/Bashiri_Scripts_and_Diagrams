@@ -1,0 +1,1 @@
+  The Linux folder includes the only set of scripts I retained up to this point in class, which is the scripts for parsing through files to correlate the dealers working with when the casino posted losses and who the players winning at those times were.

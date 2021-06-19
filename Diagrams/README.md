@@ -1,0 +1,1 @@
+  The diagrams folder includes the week 12 diagram with the web servers and their network built, as well as the Project 1 diagram which is expanded to include the second virtual network and infrastructure needed to add the ELK monitoring server.

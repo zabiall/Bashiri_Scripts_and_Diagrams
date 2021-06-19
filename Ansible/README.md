@@ -1,0 +1,3 @@
+  This Ansible directory contains screen shots and additional folders.  The screen shots are of the docker containing ELK on the monitoring server, as well as screen shots from Kibana showing Filebeat data is logging, and Metricbeat is not yet logging.
+
+  Additional directories in this folder are the Ansible and provisioner machine.  The Ansible folder contains the YAML files used to create the ELK server and all three webservers.  Including the config and playbook files for this.  The provisioner machine folder includes the ansible.cfg file and the hosts.txt file for creating the jump box which administers all of the other servers in the environment.
